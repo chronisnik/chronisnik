@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chronisnik
-- 👀 I’m interested in Cyber Security and Game Development
-- 🌱 I’m currently learning Python, C++, Cyber Security, Web Development and Game Development
+- 👋 Hi, I’m @chronisnik.
+- 👀 I’m interested in Cyber Security and Game Development.
+- 🌱 I’m currently learning Python, C++, Cyber Security, Web Development and Game Development.
 - 💞️ I’m not looking to collaborate on anything currently.
 - 📫 My email is chronisnik@pm.me
 
