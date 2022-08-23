@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chronisnik.
 - 👀 I’m interested in Cyber Security and Game Development.
 - 🌱 I’m currently learning Python, C++, Cyber Security, Web Development and Game Development.
-- 💞️ I’m not looking to collaborate on anything currently.
-- 📫 My email is chronisnik@pm.me
+- 💞️ I’m not looking to collaborate on anything at the moment.
+- 📫 My email address is chronisnik@pm.me
 
 <!---
 chronisnik/chronisnik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
